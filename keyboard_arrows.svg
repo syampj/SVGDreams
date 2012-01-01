@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg id="64d55b4b63dff5787e6ab98acd88bd7b" viewBox="0 0 400 250" width="400" height="250" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+	 <g id="scene"  >
+		
+	 <text id="b39739997cdd51388fd04aabc654f0ab"  x="5"  y="20"  font-size="20"  textLength="200"  >
+		Press arrows
+	 </text> 
+		
+	 <image id="circle_to_control"  x="50"  y="50"  width="100"  height="100"  xlink:href="images/kspaceduel.png"  >
+	 </image> 
+	 </g> <script type="text/ecmascript" xlink:href="js/svgdreams-canvas.js" />
+ 
+ 	 <script><![CDATA[
+ 	 var keyboardTargetElementId = 'circle_to_control'; 
+ 	 //]]></script> 
+
+</svg>

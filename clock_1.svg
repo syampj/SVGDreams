@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg id="e95b4120cc26f59e6fa6f1557c489a6b" viewBox="0 0 650 200" width="650" height="200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+	 <g id="scene"  >
+		
+	 <text id="time_counter"  x="5"  y="20"  font-size="15"  textLength="20"  >
+		0
+	 </text> 
+		
+	 <text id="time_counter_text"  x="30"  y="20"  font-size="15"  textLength="75"  >
+		steps | 
+	 </text> 
+		
+	 <text id="points"  x="120"  y="20"  font-size="15"  textLength="20"  >
+		0
+	 </text> 
+		
+	 <text id="points_text"  x="140"  y="20"  font-size="15"  textLength="75"  >
+		points | 
+	 </text> 
+		
+	 <text id="level_text"  x="240"  y="20"  font-size="15"  textLength="50"  >
+		Level: 
+	 </text> 
+		
+	 <text id="level"  x="290"  y="20"  font-size="15"  textLength="20"  >
+		0
+	 </text> 
+	 </g> <script type="text/ecmascript" xlink:href="js/svgdreams-canvas.js" />
+ 
+ 	 <script><![CDATA[
+ 	 var pickCirclesCounter = 0;
+ 	  function pickCircles(){ 
+ 	  pickCirclesCounter++
+ 	 	 parent.svgdreamsAjax('ajax/clock.php?&loopCount='+pickCirclesCounter+'');
+ 	 }
+ 
+ 	 	 var pickCirclesFrequency = 1000;
+ 	 	 setInterval('pickCircles()', pickCirclesFrequency);
+ 	 var circleClickedCounter = 0;
+ 	  function circleClicked(){ 
+ 	 	 parent.svgdreamsAjax('ajax/circle_clicked.php?');
+ 	 }
+ 
+ 	 setInterval('getInstruction();', 1000);  
+ 	 //]]></script> 
+
+</svg>

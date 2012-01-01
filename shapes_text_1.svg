@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg id="e897462f76f32ab742a8cfb821a2e1e8" viewBox="0 0 400 40" width="400" height="40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+	 <g id="scene"  >
+		
+	 <text id="text_1"  x="20"  y="20"  rotate="1, 31, 61, 91, 121, 151, 181, 211, 241, 271, 301, 331, "  font-size="20"  textLength="300"  >
+		Sample text rotating
+	 </text> 
+	 </g> <script type="text/ecmascript" xlink:href="js/svgdreams-canvas.js" />
+ 
+ 	 <script><![CDATA[
+ 
+ 	 setInterval('getInstruction();', 1000);  
+ 	 //]]></script> 
+
+</svg>

@@ -1,0 +1,1 @@
+<?php	require_once("basicshapeabstract.class.php");	class Group extends BasicShapeAbstract{				function __construct($itemId = "scene"){			$this->id = $itemId;			$this->shapeType = "g";		}			}?>

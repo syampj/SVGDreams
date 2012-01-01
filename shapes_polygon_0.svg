@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg id="abc518d1187622fe56a7dd8ecd2c9de1" viewBox="0 0 300 300" width="300" height="300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+	 <g id="scene"  >
+		
+	 <polygon id="polygon1"  fill="#fff"  points="150,75  179,161 269,161 197,215 223,301 150,250 77,301 103,215 31,161 121,161"  stroke="#3b5998"  stroke-width="3"  >
+		<animateTransform attributeName="transform"  attributeType="XML"  type="scale"  begin="0"  end="10s"  dur="5s"  from="0.1"  to="1"  repeatCount="indefinite" ></animateTransform>
+	 </polygon> 
+	 </g> <script type="text/ecmascript" xlink:href="js/svgdreams-canvas.js" />
+ 
+ 	 <script><![CDATA[
+ 
+ 	 setInterval('getInstruction();', 1000);  
+ 	 //]]></script> 
+
+</svg>

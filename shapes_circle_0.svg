@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg id="14a36ac7d9b11df0fb03d1bc5c60bcaf" viewBox="0 0 500 100" width="500" height="100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+	 <g id="scene"  >
+		
+	 <circle id="circle_1"  fill="#3b5998"  cx="30"  cy="30"  r="25"  stroke="black"  >
+		<animateMotion path="M 30 10 C 30 10 130 70 230 10 C 230 10 130 70 30 10 "  dur="3s"  repeatCount="indefinite" ></animateMotion>
+	 </circle> 
+	 </g> <script type="text/ecmascript" xlink:href="js/svgdreams-canvas.js" />
+ 
+ 	 <script><![CDATA[ 
+ 	 //]]></script> 
+
+</svg>

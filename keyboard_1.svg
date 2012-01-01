@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg id="3101f94f2f6ab4d1108b5318a8585deb" viewBox="0 0 400 250" width="400" height="250" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+	 <g id="scene"  >
+		
+	 <text id="2a00c31fdc457b871bad41625bcaba3f"  x="5"  y="20"  font-size="20"  textLength="200"  >
+		Press letters
+	 </text> 
+	 </g> <script type="text/ecmascript" xlink:href="js/svgdreams-canvas.js" />
+ 
+ 	 <script><![CDATA[
+ 
+ 	 setInterval('getInstruction();', 100);  
+ 	 //]]></script> 
+
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg id="77202f6ae72c44584a1f989446544bd2" viewBox="0 0 500 100" width="500" height="100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+	 <g id="scene"  >
+		
+	 <rect id="sea"  style="fill-opacity:0.3;"  width="500"  height="100"  fill="blue"  >
+	 </rect> 
+		
+	 <image id="fish"  width="40"  height="40"  xlink:href="images/fish.png"  >
+		<animateTransform attributeName="transform"  attributeType="XML"  type="translate"  dur="10s"  from="500,50"  to="0,50"  repeatCount="indefinite" ></animateTransform>
+	 </image> 
+	 </g> <script type="text/ecmascript" xlink:href="js/svgdreams-canvas.js" />
+ 
+ 	 <script><![CDATA[ 
+ 	 //]]></script> 
+
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg id="95386bf9d7cc71b85e224481162d5868" viewBox="0 0 250 80" width="250" height="80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+	 <g id="scene"  >
+		
+	 <ellipse id="ellipse_1"  style="opacity: 0.5;"  fill="yellow"  cx="75"  cy="40"  rx="75"  ry="40"  >
+		<animateColor attributeName="fill"  dur="10s"  from="yellow"  to="#00BFFF"  repeatCount="indefinite" ></animateColor>
+	 </ellipse> 
+		
+	 <ellipse id="ellipse_1"  style="opacity: 0.5;"  fill="#00BFFF"  cx="175"  cy="40"  rx="75"  ry="40"  >
+		<animateColor attributeName="fill"  dur="10s"  from="#00BFFF"  to="yellow"  repeatCount="indefinite" ></animateColor>
+	 </ellipse> 
+	 </g> <script type="text/ecmascript" xlink:href="js/svgdreams-canvas.js" />
+ 
+ 	 <script><![CDATA[
+ 
+ 	 setInterval('getInstruction();', 1000);  
+ 	 //]]></script> 
+
+</svg>

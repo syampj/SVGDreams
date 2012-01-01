@@ -1,0 +1,1 @@
+<?php	class Clock {				public __constructor(){					}				public function 			}?>

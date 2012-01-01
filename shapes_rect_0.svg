@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg id="8c5285150c411304414e805bb8d4c079" viewBox="0 0 140 140" width="140" height="140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+	 <g id="scene"  >
+		
+	 <rect id="Rect_1"  x="20"  y="20"  width="100"  height="100"  fill="#3b5998"  >
+		<animateColor attributeName="fill"  dur="5s"  from="#3b5998"  to="#fff"  repeatCount="indefinite" ></animateColor>
+	 </rect> 
+	 </g> <script type="text/ecmascript" xlink:href="js/svgdreams-canvas.js" />
+ 
+ 	 <script><![CDATA[
+ 
+ 	 setInterval('getInstruction();', 1000);  
+ 	 //]]></script> 
+
+</svg>
